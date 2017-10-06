@@ -1,11 +1,11 @@
-Paycoin Core integration/staging tree
+Streetcreds Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/PaycoinFoundation/paycoin.svg?branch=master)](https://travis-ci.org/PaycoinFoundation/paycoin)
 
-https://www.paycoin.com
+https://www.streetcreds.io
 
-What is Paycoin?
+What are Streetcreds?
 ----------------
 
 Paycoin is an experimental new digital currency that enables instant payments to
@@ -19,7 +19,7 @@ Paycoin Core software, see https://www.paycoin.com/#wallet.
 License
 -------
 
-Paycoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Streetcreds Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
@@ -28,7 +28,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Paycoin
+If it is a simple/trivial/non-controversial change, then one of the Streetcreds
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
